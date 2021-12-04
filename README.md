@@ -9,4 +9,4 @@ To run the Java version, download the files and run the build.bat file using a p
 ### Javascript
 Make sure you have all the files downloaded and you may then open the file named "Assignment 7" in your browser of choice to play.
 ### Python
-Make sure you have all the files downloaded and run the game file using python. Pygame will be necessary.
+Make sure you have all the files downloaded and run the game file using python. The Pygame library is necessary to run the program.
